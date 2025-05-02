@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\PremierProjet\\PremierProjet\\PremierProjet.csproj": {}
+    "D:\\MV\\H25\\420-413\\Code\\ExemplesGithubClasse\\ExemplePR2\\PremierProjet\\PremierProjet\\PremierProjet.csproj": {}
   },
   "projects": {
-    "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\PremierProjet\\PremierProjet\\PremierProjet.csproj": {
+    "D:\\MV\\H25\\420-413\\Code\\ExemplesGithubClasse\\ExemplePR2\\PremierProjet\\PremierProjet\\PremierProjet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\PremierProjet\\PremierProjet\\PremierProjet.csproj",
+        "projectUniqueName": "D:\\MV\\H25\\420-413\\Code\\ExemplesGithubClasse\\ExemplePR2\\PremierProjet\\PremierProjet\\PremierProjet.csproj",
         "projectName": "PremierProjet",
-        "projectPath": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\PremierProjet\\PremierProjet\\PremierProjet.csproj",
+        "projectPath": "D:\\MV\\H25\\420-413\\Code\\ExemplesGithubClasse\\ExemplePR2\\PremierProjet\\PremierProjet\\PremierProjet.csproj",
         "packagesPath": "C:\\Users\\boumsar0\\.nuget\\packages\\",
-        "outputPath": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\PremierProjet\\PremierProjet\\obj\\",
+        "outputPath": "D:\\MV\\H25\\420-413\\Code\\ExemplesGithubClasse\\ExemplePR2\\PremierProjet\\PremierProjet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

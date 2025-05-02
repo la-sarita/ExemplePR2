@@ -25,6 +25,8 @@ namespace CSharpBasics
             Tableaux.DemoTableaux();
             Listes.DemoListe();
             Dictionnaires.DemoDictionnaires();
+
+            Console.WriteLine(SumNumbers(5, 2));
         }
 
         static void DemoEnums()
@@ -125,6 +127,11 @@ namespace CSharpBasics
             InstructionsSaut.InstructionsContinue();
             InstructionsSaut.InstructionsBreakBoucleWhile();
             InstructionsSaut.InstructionsContinueBoucleWhile();
+        }
+
+        public static int SumNumbers(int num1, int num2)
+        {
+            return num1 + num2;
         }
     }
 }
