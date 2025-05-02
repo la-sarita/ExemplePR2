@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\PremierProjet\\POO\\POO.csproj",
+      "projectUniqueName": "D:\\MV\\H25\\420-413\\Code\\ExemplesGithubClasse\\ExemplePR2\\PremierProjet\\POO\\POO.csproj",
       "projectName": "POO",
-      "projectPath": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\PremierProjet\\POO\\POO.csproj",
+      "projectPath": "D:\\MV\\H25\\420-413\\Code\\ExemplesGithubClasse\\ExemplePR2\\PremierProjet\\POO\\POO.csproj",
       "packagesPath": "C:\\Users\\boumsar0\\.nuget\\packages\\",
-      "outputPath": "D:\\MV\\H25\\420-413\\Code\\Code_vu_en_classe\\420-413-H25\\PremierProjet\\POO\\obj\\",
+      "outputPath": "D:\\MV\\H25\\420-413\\Code\\ExemplesGithubClasse\\ExemplePR2\\PremierProjet\\POO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
